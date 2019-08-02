@@ -1,0 +1,14 @@
+Setting	State	Comment
+Control Panel		
+Google		
+LAPS		
+Mozilla		
+MS Security Guide		
+MSS (Legacy)		
+Network		
+Printers		
+Start Menu and Taskbar		
+System		
+System Center - Operations Manager		
+Windows Components		
+All Settings		

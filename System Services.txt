@@ -1,0 +1,278 @@
+Service Name	Startup	Permission
+ActiveX Installer (AxInstSV)	Not Defined	Not Defined
+Agent Activation Runtime_4dcd353	Not Defined	Not Defined
+AllJoyn Router Service	Not Defined	Not Defined
+App Readiness	Not Defined	Not Defined
+Application Identity	Not Defined	Not Defined
+Application Information	Not Defined	Not Defined
+Application Layer Gateway Service	Not Defined	Not Defined
+Application Management	Not Defined	Not Defined
+AppX Deployment Service (AppXSVC)	Not Defined	Not Defined
+AssignedAccessManager Service	Not Defined	Not Defined
+Auto Time Zone Updater	Not Defined	Not Defined
+AVCTP service	Not Defined	Not Defined
+Background Intelligent Transfer Service	Not Defined	Not Defined
+Background Tasks Infrastructure Service	Not Defined	Not Defined
+Base Filtering Engine	Not Defined	Not Defined
+BitLocker Drive Encryption Service	Not Defined	Not Defined
+Block Level Backup Engine Service	Not Defined	Not Defined
+Bluetooth Audio Gateway Service	Disabled	Not Defined
+Bluetooth Support Service	Disabled	Not Defined
+Bluetooth User Support Service_4dcd353	Not Defined	Not Defined
+BranchCache	Not Defined	Not Defined
+Capability Access Manager Service	Not Defined	Not Defined
+CaptureService_4dcd353	Not Defined	Not Defined
+Cellular Time	Not Defined	Not Defined
+Certificate Propagation	Not Defined	Not Defined
+Client License Service (ClipSVC)	Not Defined	Not Defined
+Clipboard User Service_4dcd353	Not Defined	Not Defined
+CNG Key Isolation	Not Defined	Not Defined
+COM+ Event System	Not Defined	Not Defined
+COM+ System Application	Not Defined	Not Defined
+ConfigMgr Task Sequence Agent	Not Defined	Not Defined
+Configuration Manager Remote Control	Not Defined	Not Defined
+Connected Devices Platform Service	Not Defined	Not Defined
+Connected Devices Platform User Service_4dcd353	Not Defined	Not Defined
+Connected User Experiences and Telemetry	Not Defined	Not Defined
+ConsentUX_4dcd353	Not Defined	Not Defined
+Contact Data_4dcd353	Not Defined	Not Defined
+CoreMessaging	Not Defined	Not Defined
+Credential Manager	Not Defined	Not Defined
+CredentialEnrollmentManagerUserSvc_4dcd353	Not Defined	Not Defined
+Cryptographic Services	Not Defined	Not Defined
+Data Sharing Service	Not Defined	Not Defined
+Data Usage	Not Defined	Not Defined
+DCOM Server Process Launcher	Not Defined	Not Defined
+Delivery Optimization	Not Defined	Not Defined
+Device Association Service	Not Defined	Not Defined
+Device Install Service	Not Defined	Not Defined
+Device Management Enrollment Service	Not Defined	Not Defined
+Device Management Wireless Application Protocol (WAP) Push message Routing Service	Not Defined	Not Defined
+Device Setup Manager	Not Defined	Not Defined
+DeviceAssociationBroker_4dcd353	Not Defined	Not Defined
+DevicePicker_4dcd353	Not Defined	Not Defined
+DevicesFlow_4dcd353	Not Defined	Not Defined
+DevQuery Background Discovery Broker	Not Defined	Not Defined
+DHCP Client	Not Defined	Not Defined
+Diagnostic Execution Service	Not Defined	Not Defined
+Diagnostic Policy Service	Not Defined	Not Defined
+Diagnostic Service Host	Not Defined	Not Defined
+Diagnostic System Host	Not Defined	Not Defined
+Display Enhancement Service	Not Defined	Not Defined
+Display Policy Service	Not Defined	Not Defined
+Distributed Link Tracking Client	Not Defined	Not Defined
+Distributed Transaction Coordinator	Not Defined	Not Defined
+DNS Client	Not Defined	Not Defined
+Downloaded Maps Manager	Disabled	Not Defined
+Embedded Mode	Not Defined	Not Defined
+Encrypting File System (EFS)	Not Defined	Not Defined
+Enterprise App Management Service	Not Defined	Not Defined
+Extensible Authentication Protocol	Not Defined	Not Defined
+Fax	Not Defined	Not Defined
+File History Service	Not Defined	Not Defined
+FortiClient Service Scheduler	Not Defined	Not Defined
+Function Discovery Provider Host	Not Defined	Not Defined
+Function Discovery Resource Publication	Not Defined	Not Defined
+GameDVR and Broadcast User Service_4dcd353	Not Defined	Not Defined
+Geolocation Service	Disabled	Not Defined
+Google Chrome Elevation Service	Not Defined	Not Defined
+Google Update Service (gupdate)	Not Defined	Not Defined
+Google Update Service (gupdatem)	Not Defined	Not Defined
+GraphicsPerfSvc	Not Defined	Not Defined
+Group Policy Client	Not Defined	Not Defined
+Human Interface Device Service	Not Defined	Not Defined
+HV Host Service	Not Defined	Not Defined
+Hyper-V Data Exchange Service	Not Defined	Not Defined
+Hyper-V Guest Service Interface	Not Defined	Not Defined
+Hyper-V Guest Shutdown Service	Not Defined	Not Defined
+Hyper-V Heartbeat Service	Not Defined	Not Defined
+Hyper-V PowerShell Direct Service	Not Defined	Not Defined
+Hyper-V Remote Desktop Virtualization Service	Not Defined	Not Defined
+Hyper-V Time Synchronization Service	Not Defined	Not Defined
+Hyper-V Volume Shadow Copy Requestor	Not Defined	Not Defined
+IKE and AuthIP IPsec Keying Modules	Not Defined	Not Defined
+Internet Connection Sharing (ICS)	Disabled	Not Defined
+IP Helper	Not Defined	Not Defined
+IP Translation Configuration Service	Not Defined	Not Defined
+IPsec Policy Agent	Not Defined	Not Defined
+KtmRm for Distributed Transaction Coordinator	Not Defined	Not Defined
+Language Experience Service	Not Defined	Not Defined
+Link-Layer Topology Discovery Mapper	Disabled	Not Defined
+Local Profile Assistant Service	Not Defined	Not Defined
+Local Session Manager	Not Defined	Not Defined
+ManageEngine AssetExplorer Agent	Not Defined	Not Defined
+ManageEngine AssetExplorer RemoteControl	Not Defined	Not Defined
+ManageEngine Desktop Central - Agent	Not Defined	Not Defined
+ManageEngine Desktop Central - Remote Control	Not Defined	Not Defined
+MessagingService_4dcd353	Not Defined	Not Defined
+Microsoft (R) Diagnostics Hub Standard Collector Service	Not Defined	Not Defined
+Microsoft Account Sign-in Assistant	Not Defined	Not Defined
+Microsoft App-V Client	Not Defined	Not Defined
+Microsoft iSCSI Initiator Service	Disabled	Not Defined
+Microsoft Monitoring Agent	Not Defined	Not Defined
+Microsoft Monitoring Agent Audit Forwarding	Not Defined	Not Defined
+Microsoft Office Click-to-Run Service	Not Defined	Not Defined
+Microsoft Passport	Not Defined	Not Defined
+Microsoft Passport Container	Not Defined	Not Defined
+Microsoft Policy Platform Local Authority	Not Defined	Not Defined
+Microsoft Policy Platform Processor	Not Defined	Not Defined
+Microsoft Software Shadow Copy Provider	Not Defined	Not Defined
+Microsoft Storage Spaces SMP	Not Defined	Not Defined
+Microsoft Store Install Service	Disabled	Not Defined
+Microsoft Windows SMS Router Service.	Not Defined	Not Defined
+Miss Marple Inventory Agent	Not Defined	Not Defined
+Miss Marple Metering Service	Not Defined	Not Defined
+Miss Marple Updater	Not Defined	Not Defined
+Natural Authentication	Not Defined	Not Defined
+Net Driver HPZ12	Not Defined	Not Defined
+Net.Tcp Port Sharing Service	Not Defined	Not Defined
+Netlogon	Not Defined	Not Defined
+Network Connected Devices Auto-Setup	Not Defined	Not Defined
+Network Connection Broker	Not Defined	Not Defined
+Network Connections	Not Defined	Not Defined
+Network Connectivity Assistant	Not Defined	Not Defined
+Network List Service	Not Defined	Not Defined
+Network Location Awareness	Not Defined	Not Defined
+Network Setup Service	Not Defined	Not Defined
+Network Store Interface Service	Not Defined	Not Defined
+NVIDIA Display Driver Service	Not Defined	Not Defined
+NVIDIA Stereoscopic 3D Driver Service	Not Defined	Not Defined
+Office 64 Source Engine	Not Defined	Not Defined
+Offline Files	Not Defined	Not Defined
+OpenSSH Authentication Agent	Not Defined	Not Defined
+Optimize drives	Not Defined	Not Defined
+Parental Controls	Not Defined	Not Defined
+Payments and NFC/SE Manager	Not Defined	Not Defined
+Peer Name Resolution Protocol	Disabled	Not Defined
+Peer Networking Grouping	Disabled	Not Defined
+Peer Networking Identity Manager	Disabled	Not Defined
+Performance Counter DLL Host	Not Defined	Not Defined
+Performance Logs & Alerts	Not Defined	Not Defined
+Phone Service	Not Defined	Not Defined
+Plug and Play	Not Defined	Not Defined
+Pml Driver HPZ12	Not Defined	Not Defined
+PNRP Machine Name Publication Service	Disabled	Not Defined
+Portable Device Enumerator Service	Not Defined	Not Defined
+Power	Not Defined	Not Defined
+Print Spooler	Not Defined	Not Defined
+Printer Extensions and Notifications	Not Defined	Not Defined
+PrintWorkflow_4dcd353	Not Defined	Not Defined
+Problem Reports and Solutions Control Panel Support	Disabled	Not Defined
+Program Compatibility Assistant Service	Not Defined	Not Defined
+Quality Windows Audio Video Experience	Not Defined	Not Defined
+Radio Management Service	Not Defined	Not Defined
+RansomwareDetectionService	Not Defined	Not Defined
+Recommended Troubleshooting Service	Not Defined	Not Defined
+Remote Access Auto Connection Manager	Disabled	Not Defined
+Remote Access Connection Manager	Not Defined	Not Defined
+Remote Desktop Configuration	Disabled	Not Defined
+Remote Desktop Services	Disabled	Not Defined
+Remote Desktop Services UserMode Port Redirector	Disabled	Not Defined
+Remote Procedure Call (RPC)	Not Defined	Not Defined
+Remote Procedure Call (RPC) Locator	Disabled	Not Defined
+Remote Registry	Disabled	Not Defined
+Retail Demo Service	Not Defined	Not Defined
+Routing and Remote Access	Disabled	Not Defined
+RPC Endpoint Mapper	Not Defined	Not Defined
+Secondary Logon	Not Defined	Not Defined
+Secure Socket Tunneling Protocol Service	Not Defined	Not Defined
+Security Accounts Manager	Not Defined	Not Defined
+Security Center	Not Defined	Not Defined
+Sensor Data Service	Not Defined	Not Defined
+Sensor Monitoring Service	Not Defined	Not Defined
+Sensor Service	Not Defined	Not Defined
+Server	Disabled	Not Defined
+Shared PC Account Manager	Not Defined	Not Defined
+Shell Hardware Detection	Not Defined	Not Defined
+Smart Card	Not Defined	Not Defined
+Smart Card Device Enumeration Service	Not Defined	Not Defined
+Smart Card Removal Policy	Not Defined	Not Defined
+SMS Agent Host	Not Defined	Not Defined
+SNMP Trap	Not Defined	Not Defined
+Software Protection	Not Defined	Not Defined
+Spatial Data Service	Not Defined	Not Defined
+Spot Verifier	Not Defined	Not Defined
+SSDP Discovery	Disabled	Not Defined
+State Repository Service	Not Defined	Not Defined
+Still Image Acquisition Events	Not Defined	Not Defined
+Storage Service	Not Defined	Not Defined
+Storage Tiers Management	Not Defined	Not Defined
+Sync Host_4dcd353	Not Defined	Not Defined
+SysMain	Not Defined	Not Defined
+System Event Notification Service	Not Defined	Not Defined
+System Events Broker	Not Defined	Not Defined
+System Guard Runtime Monitor Broker	Not Defined	Not Defined
+Task Scheduler	Not Defined	Not Defined
+TCP/IP NetBIOS Helper	Not Defined	Not Defined
+Telephony	Not Defined	Not Defined
+Themes	Not Defined	Not Defined
+Time Broker	Not Defined	Not Defined
+Touch Keyboard and Handwriting Panel Service	Not Defined	Not Defined
+TunnelBear Maintenance	Not Defined	Not Defined
+Update Orchestrator Service	Not Defined	Not Defined
+UPnP Device Host	Disabled	Not Defined
+User Data Access_4dcd353	Not Defined	Not Defined
+User Data Storage_4dcd353	Not Defined	Not Defined
+User Experience Virtualization Service	Not Defined	Not Defined
+User Manager	Not Defined	Not Defined
+User Profile Service	Not Defined	Not Defined
+Virtual Disk	Not Defined	Not Defined
+VMware Authorization Service	Not Defined	Not Defined
+VMware DHCP Service	Not Defined	Not Defined
+VMware NAT Service	Not Defined	Not Defined
+VMware USB Arbitration Service	Not Defined	Not Defined
+Volume Shadow Copy	Not Defined	Not Defined
+Volumetric Audio Compositor Service	Not Defined	Not Defined
+WalletService	Not Defined	Not Defined
+WarpJITSvc	Not Defined	Not Defined
+Web Account Manager	Not Defined	Not Defined
+WebClient	Not Defined	Not Defined
+Wi-Fi Direct Services Connection Manager Service	Not Defined	Not Defined
+Windows Audio	Not Defined	Not Defined
+Windows Audio Endpoint Builder	Not Defined	Not Defined
+Windows Backup	Not Defined	Not Defined
+Windows Biometric Service	Not Defined	Not Defined
+Windows Camera Frame Server	Not Defined	Not Defined
+Windows Connect Now - Config Registrar	Not Defined	Not Defined
+Windows Connection Manager	Not Defined	Not Defined
+Windows Defender Advanced Threat Protection Service	Not Defined	Not Defined
+Windows Defender Antivirus Network Inspection Service	Not Defined	Not Defined
+Windows Defender Antivirus Service	Not Defined	Not Defined
+Windows Defender Firewall	Not Defined	Not Defined
+Windows Encryption Provider Host Service	Not Defined	Not Defined
+Windows Error Reporting Service	Disabled	Not Defined
+Windows Event Collector	Disabled	Not Defined
+Windows Event Log	Not Defined	Not Defined
+Windows Font Cache Service	Not Defined	Not Defined
+Windows Image Acquisition (WIA)	Not Defined	Not Defined
+Windows Insider Service	Not Defined	Not Defined
+Windows Installer	Not Defined	Not Defined
+Windows License Manager Service	Not Defined	Not Defined
+Windows Management Instrumentation	Not Defined	Not Defined
+Windows Management Service	Not Defined	Not Defined
+Windows Media Player Network Sharing Service	Disabled	Not Defined
+Windows Mobile Hotspot Service	Disabled	Not Defined
+Windows Modules Installer	Not Defined	Not Defined
+Windows Perception Service	Not Defined	Not Defined
+Windows Perception Simulation Service	Not Defined	Not Defined
+Windows Presentation Foundation Font Cache 3.0.0.0	Not Defined	Not Defined
+Windows Push Notifications System Service	Disabled	Not Defined
+Windows Push Notifications User Service_4dcd353	Not Defined	Not Defined
+Windows PushToInstall Service	Disabled	Not Defined
+Windows Remote Management (WS-Management)	Disabled	Not Defined
+Windows Search	Not Defined	Not Defined
+Windows Security Service	Not Defined	Not Defined
+Windows Time	Not Defined	Not Defined
+Windows Update	Not Defined	Not Defined
+Windows Update Medic Service	Not Defined	Not Defined
+WinHTTP Web Proxy Auto-Discovery Service	Not Defined	Not Defined
+Wired AutoConfig	Not Defined	Not Defined
+WLAN AutoConfig	Not Defined	Not Defined
+WMI Performance Adapter	Not Defined	Not Defined
+Work Folders	Not Defined	Not Defined
+Workstation	Not Defined	Not Defined
+WWAN AutoConfig	Not Defined	Not Defined
+Xbox Accessory Management Service	Disabled	Not Defined
+Xbox Live Auth Manager	Disabled	Not Defined
+Xbox Live Game Save	Disabled	Not Defined
+Xbox Live Networking Service	Disabled	Not Defined

@@ -1,0 +1,46 @@
+Policy	Policy Setting
+Access Credential Manager as a trusted caller	
+Access this computer from the network	Remote Desktop users,administrators
+Act as part of the operating system	
+Add workstations to domain	Not Defined
+Adjust memory quotas for a process	NETWORK SERVICE,LOCAL SERVICE,Administrators
+Allow log on locally	users,administrators
+Allow log on through Remote Desktop Services	Remote Desktop Users,Administrators
+Back up files and directories	administrators
+Bypass traverse checking	Not Defined
+Change the system time	LOCAL SERVICE,administrators
+Change the time zone	Users,LOCAL SERVICE,Administrators
+Create a pagefile	Administrators
+Create a token object	
+Create global objects	service,NETWORK service,LOCAL SERVICE,Administrators
+Create permanent shared objects	
+Create symbolic links	Administrators
+Debug programs	Administrators
+Deny access to this computer from the network	Not Defined
+Deny log on as a batch job	Guests
+Deny log on as a service	Guests
+Deny log on locally	Guests
+Deny log on through Remote Desktop Services	Local account,Guests
+Enable computer and user accounts to be trusted for delegation	
+Force shutdown from a remote system	Administrators
+Generate security audits	NETWORK SERVICE,LOCAL SERVICE
+Impersonate a client after authentication	SERVICE,NETWORK SERVICE,LOCAL SERVICE,Administrators
+Increase a process working set	Not Defined
+Increase scheduling priority	Window Manager\Window Manager Group,Administrators
+Load and unload device drivers	Administrators
+Lock pages in memory	
+Log on as a batch job	Administrators
+Log on as a service	
+Manage auditing and security log	Administrators
+Modify an object label	
+Modify firmware environment values	Administrators
+Obtain an impersonation token for another user in the same session	Not Defined
+Perform volume maintenance tasks	Administrators
+Profile single process	Administrators
+Profile system performance	NT SERVICE\WdiServiceHost,Administrators
+Remove computer from docking station	Not Defined
+Replace a process level token	NETWORK SERVICE,LOCAL SERVICE
+Restore files and directories	Administrators
+Shut down the system	Users,Administrators
+Synchronize directory service data	Not Defined
+Take ownership of files or other objects	Administrators

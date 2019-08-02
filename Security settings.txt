@@ -1,0 +1,20 @@
+Name	Description
+Account Policies	Password and account lockout policies
+Local Policies	Auditing, user rights and security options policies
+Event Log	Event Log
+Restricted Groups	Restricted Groups
+System Services	System service settings
+Registry	Registry security settings
+File System	File system security settings
+Wired Network (IEEE 802.3) Policies	Wired Network Policy Administration. Manage Wired Auto Configuration settings and IEEE 802.3 Security Settings for IEEE 802.3 Network clients
+Windows Defender Firewall with Advanced Security	Windows Defender Firewall with Advanced Security
+Network List Manager Policies	Network name, icon and location group policies.
+Wireless Network (IEEE 802.11) Policies	Wireless Network Policy Administration. Manage WLAN AutoConfig settings and IEEE 802.1X Security Settings for IEEE 802.11 Network clients
+Public Key Policies	
+Software Restriction Policies	
+Application Control Policies	Application Control Policies
+IP Security Policies on Active Directory (NRP.LOCAL)	Internet Protocol Security (IPsec) Administration. Manage IPsec policies for secure communication with other computers.
+
+
+Portions of IPsec and related services were jointly developed by Microsoft Corporation and Cisco Systems, Inc.
+Advanced Audit Policy Configuration	Advanced Audit Policy Configuration
